@@ -1,4 +1,6 @@
 #! /usr/bin/python
+# -*- coding: utf-8 -*-
+
 
 import sys,math,deflection
 
@@ -124,7 +126,7 @@ def computethetamap():
 
 
 
-M1      = 10.
+M1      = 6.
 M2      = 10.
 theta1  = math.radians(20.)
 

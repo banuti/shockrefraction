@@ -68,6 +68,9 @@ def obliqueshockrel(M1,theta,beta=None):
   return M2,p_ratio,p0_ratio,T_ratio
 
 
+#TODO add hypersonics realtions here or in obliquehockrel
+
+
 
 def getisentropic(M1,M2):
   MM1 = M1*M1
